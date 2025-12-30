@@ -1,10 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
 
-# Allow image crawling (important for Google image thumbnails)
-Allow: /hero-men-fashion.webp
-Allow: /hero-women-fashion.webp
-Allow: /hero-kids-fashion.webp
-
-# Sitemap location
+# Sitemap
 Sitemap: https://shopping-fintraa.vercel.app/sitemap.xml
