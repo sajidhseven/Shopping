@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://shopping-fintraa.vercel.app/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- HERO / BRAND IMAGE -->
+    <image:image>
+      <image:loc>https://shopping-fintraa.vercel.app/hero-women-fashion.webp</image:loc>
+      <image:title>Fyntra Women Fashion Collection</image:title>
+      <image:caption>Trending women fashion collection on Fyntra</image:caption>
+    </image:image>
+
+    <!-- OPTIONAL: MEN IMAGE -->
+    <image:image>
+      <image:loc>https://shopping-fintraa.vercel.app/hero-men-fashion.webp</image:loc>
+      <image:title>Fyntra Men Fashion Collection</image:title>
+      <image:caption>Men fashion collection on Fyntra</image:caption>
+    </image:image>
+
+    <!-- OPTIONAL: KIDS IMAGE -->
+    <image:image>
+      <image:loc>https://shopping-fintraa.vercel.app/hero-kids-fashion.webp</image:loc>
+      <image:title>Fyntra Kids Fashion Collection</image:title>
+      <image:caption>Kids fashion collection on Fyntra</image:caption>
+    </image:image>
+  </url>
+</urlset>
